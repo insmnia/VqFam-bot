@@ -1,0 +1,9 @@
+aiogram==2.8
+aiohttp==3.6.2
+async-timeout==3.0.1
+asyncio==3.4.3
+attrs==19.3.0
+regex==2020.5.14
+requests==2.23.0
+urllib3==1.25.9
+
